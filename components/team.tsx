@@ -12,7 +12,7 @@ function team() {
               Meet our team
             </h2>
             <p className="text-[#181818] text-center font-medium lg:text-[20px] text-[17px] px-5 lg:px-0">
-              Meet our diverse team of world-class creators and event planners.
+              Meet our diverse team of world-class creators and event plannhhhhhhers.
             </p>
           </div>
 
