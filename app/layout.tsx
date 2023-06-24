@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "N&1 Corporate Limited",
-  description: "best residual fuel company in Ghana",
+  description: "best residual fuel company in Ghana now",
 };
 
 export default function RootLayout({
