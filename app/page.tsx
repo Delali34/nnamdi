@@ -5,12 +5,12 @@ import { HiBars3BottomRight } from "react-icons/hi2";
 import Map from "@/components/map";
 import Footer from "@/components/footer";
 import Link from "next/link";
-import Type from "@/components/type";
+
 import { GrLinkTop } from "react-icons/gr";
 
 import Menu from "../components/menu";
 
-import bground from "../public/WISDECK LOGO WITH TRANSPARENT BACKGROUND.png";
+import bground from "../public/pi-removebg-preview-min.png";
 import Who from "@/components/who";
 import Contact from "@/components/contact";
 export default function Home() {
@@ -44,7 +44,7 @@ export default function Home() {
           autoPlay
           muted
           loop
-          src="/pexels-alex-kad-5171156-3840x2160-60fps_H.264.mp4"
+          src="/pexels-jay-s-4021642-960x540-30fps (1).mp4"
         ></video>
       </div>
       <div className="bg-black/40 h-screen absolute top-0 bottom-0 right-0 left-0"></div>
@@ -93,7 +93,7 @@ export default function Home() {
           <Menu showMenu={showMenu} active={active} />
         </div>
       </div>
-      {/* <div className="flex items-center h-[100vh] absolute w-[100%] top-0  justify-center md:px-10 px-5">
+      <div className="flex items-center h-[100vh] absolute w-[100%] top-0  justify-center md:px-10 px-5">
         <div className="">
           <h1 className="text-white text-4xl font-font xl:text-7xl 2xl:text-[120px] md:text-5xl font-extrabold  ">
             Efficient logistics
@@ -102,8 +102,8 @@ export default function Home() {
             solutions for seamless operations
           </h1>
         </div>
-      </div> */}
-      <Type />
+      </div>
+
       <Who />
       <Contact />
       <Map />

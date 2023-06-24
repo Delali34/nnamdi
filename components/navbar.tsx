@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { HiBars3BottomRight } from "react-icons/hi2";
 import Link from "next/link";
 import Menu from "../components/menu";
-import bground from "../public/WISDECK LOGO WITH TRANSPARENT BACKGROUND.png";
+import bground from "../public/pi-removebg-preview-min.png";
 import { motion } from "framer-motion";
 
 export default function Home() {

@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import Navber from "../../components/navbar";
 import Abouts from "../../components/about";
-import Team from "@/components/team";
+
 import Footer from "@/components/footer";
 import { GrLinkTop } from "react-icons/gr";
 
@@ -32,7 +32,6 @@ function About() {
     <div className="overflow-x-hidden">
       <Navber />
       <Abouts />
-      <Team />
 
       <Footer />
       {showScrollTop && (

@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Wisdeck Oil Company Limited",
+  title: "N&1 Corporate Limited",
   description: "best residual fuel company in Ghana",
 };
 

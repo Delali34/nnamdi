@@ -120,11 +120,13 @@ function Contact() {
               <h1 className="text-blue-700 text-center font-bold lg:text-2xl text-xl">
                 OUR INFORMATION
               </h1>
-              <h1 className="text-center pt-3 ">Wisdeck Oil Company</h1>
-              <h1 className="text-center pt-3 font-bold">Tema, Ghana</h1>
-              <h1 className="text-center pt-2">Call: 0242003714 </h1>
+              <h1 className="text-center pt-3 ">
+                Namdi And Ifeoma Corporate Service Provider
+              </h1>
+              <h1 className="text-center pt-3 font-bold">Dubai,UAE</h1>
+              <h1 className="text-center pt-2">Call: 042944154 </h1>
               <h1 className="text-center pt-2 text-blue-700">
-                joycelineebbah.tgv@gmail.com
+                wbaasit@gmail.com
               </h1>
             </motion.div>
           </div>

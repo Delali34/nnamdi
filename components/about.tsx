@@ -65,15 +65,18 @@ function about() {
           className="pt-10"
         >
           <p className="md:text-xl text-sm ">
-            At <span className="font-bold">Wisdeck Oil Company Limited</span>,
-            we are a dedicated team of professionals passionate about delivering
-            comprehensive energy solutions to our valued clients. With extensive
-            expertise in the residual fuel industry, we strive to provide
-            unmatched knowledge and exceptional services. Our Commitment: We are
-            committed to fueling industries with reliable, high-quality residual
-            fuel solutions. Our focus is on understanding your unique energy
-            requirements and delivering tailored solutions to optimize your
-            operations.
+            At{" "}
+            <span className="font-bold">
+              Namdi And Ifeoma Corporate Service Provider
+            </span>
+            , we are a dedicated team of professionals passionate about
+            delivering comprehensive energy solutions to our valued clients.
+            With extensive expertise in the residual fuel industry, we strive to
+            provide unmatched knowledge and exceptional services. Our
+            Commitment: We are committed to fueling industries with reliable,
+            high-quality residual fuel solutions. Our focus is on understanding
+            your unique energy requirements and delivering tailored solutions to
+            optimize your operations.
             <br /> <br /> Industry Leaders: As industry leaders, we stay ahead
             of the curve, constantly adapting to the evolving energy landscape.
             Our team stays abreast of the latest industry trends, regulations,

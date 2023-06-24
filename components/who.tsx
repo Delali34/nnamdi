@@ -47,9 +47,9 @@ function who() {
       >
         <p className="text-center pt-8 px-5 xl:text-xl text-sm">
           we are passionate about delivering seamless logistics solutions that
-          drive efficiency, reliability, and growth. With [number of years] of
-          industry experience, we have established ourselves as a leading
-          provider in the field.
+          drive efficiency, reliability, and growth. With of industry
+          experience, we have established ourselves as a leading provider in the
+          field.
         </p>
       </motion.div>
       <div className=" flex flex-col lg:flex-row gap-10 justify-center items-center pt-20 pb-5">
